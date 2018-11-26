@@ -672,5 +672,9 @@
     <!-- Stock Navbar settings -->
     <string name="default_settings">Stock settings</string>
     <string name="default_settings_summary">Stock AOSP navigation bar</string>
-
+    
+        <!-- AOSP Recents component Style -->
+    <string name="recents_component_type_title">Stock Recents Style</string>
+    <string name="recents_pie">Pie</string>
+    <string name="recents_oreo">Oreo</string>
   </resources>
