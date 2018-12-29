@@ -38,5 +38,4 @@
         android:title="@string/show_device_hidden_prefs_title"
         android:summary="@string/show_device_hidden_prefs_summary"
         android:defaultValue="false" />
-
 </PreferenceScreen>

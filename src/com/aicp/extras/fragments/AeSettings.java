@@ -38,6 +38,7 @@ public class AeSettings extends BaseSettingsFragment
 
     private static final String PREF_AE_LAUNCHER = "ae_launcher_enabled";
 
+
     private ComponentName mAeLauncherComponent;
 
     private ListPreference mTheme;

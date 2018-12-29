@@ -28,6 +28,9 @@ public class SystemExtensions extends BaseSettingsFragment {
 
     private static final String PREF_SYSTEM_APP_REMOVER = "system_app_remover";
 
+    private static final String KEY_DEVICE_PART = "xiaomi_part";
+    private static final String KEY_DEVICE_PART_PACKAGE_NAME = "com.thht.settings.device";
+
     @Override
     protected int getPreferenceResource() {
         return R.xml.system_extensions;
